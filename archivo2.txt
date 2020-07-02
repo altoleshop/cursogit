@@ -1,7 +1,2 @@
-kdnksndksdknds
-dndkndkndk+
-dwdwmdmwd
-dwodowjmd
-,mflemfdle,mfde
-fmelmfemfled
-fmlemflemd
+esto es un archivo creado
+para la prueba del curso de GIT
